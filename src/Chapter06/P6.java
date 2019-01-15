@@ -52,9 +52,11 @@ public class P6 {
     }
 
     /**
-     * Converts dollars to yen
+     * Converts
      *
-     * @param dollars, exchangeRate The dollars converted and the exchange rate
+     * @param dollars The dollars converted
+     * @param exchangeRate exchange rate
+     * @return the amount converted
      */
     public static double convert(double dollars, double exchangeRate) {
         if (dollars > 100) {
