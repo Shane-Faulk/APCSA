@@ -3,8 +3,8 @@ package Chapter03;
 import java.util.Scanner;
 
 /**
- * Uses 2 numbers to see if they are equal, less, or greater. Calculates the grade of first
- * Calculates if second is in range
+ * Uses 2 numbers to see if they are equal, less, or greater. Calculates the
+ * grade of first Calculates if second is in range
  *
  * @author Shane Faulk
  */
